@@ -17,6 +17,6 @@ A9A--ON1--A9A
 A0A--\TP5Helper.exe--A0A
 A8A--TASLogin.exe--A8A
 B1B--qqqqq.exe--B1B
-B2B--qqqqq.exe---B2B
-B3B--qqqqq.exe---B3B
-B4B--qqqqq.exe---B4B
+B2B--qqqqq.exe--B2B
+B3B--qqqqq.exe--B3B
+B4B--qqqqq.exe--B4B
