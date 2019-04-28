@@ -21,4 +21,4 @@ B2B--sfdgefggfdgsdrgdfgcxvbdfg--B2B---取标题名
 B3B--取取取取取取取取取取--B3B---取邮进程
 B4B--取取取取取取取取取--B4B---取进程
 AION--  --algo aion --fee 0 --intensity 1 --pec --server cluster.aionpool.tech --port 3333 --user 0xa0e942264d06d6212d3bb1f6a67d4986867a370b47623973f22fa4fb30be905d.98KK --pass x--AION
-  ONAI--ON--ONAI
+  ONAI--ON1--ONAI
