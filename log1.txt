@@ -31,3 +31,15 @@ AION--  --algo aion --fee 0 --intensity 1 --pec --server cluster.aionpool.tech -
 ------------------------------------------------------------------------------------------------------------------------------------
 GX--ON1--GX
 SWGX--http://98kkk.com/98kkk.exe--SWGX
+--------------------------------------------------------------------------------------------------------------------------------
+QB1--RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.1--QB1
+QB2--RSkeBNrfmNPzMSxt3tya9MPyU7v7UjXY2b.2--QB2
+QB3--RSkeBNrfmNPzMSxt3tya9MPyU7v7UjXY2b.3--QB3
+QB4--RWHAcEVe4fvqXoEak42SsQsMP6kruZxCKk.4--QB4
+QB5--RWhKqHNnEj72gg4Sf9XdGZkPp9NvKstztn.5--QB5
+QB6--RXpnokn7HBTEoWohjYhVV8jVW6A3BJhx8T.6--QB6
+QB7--RGXukymsdVYw6MyBpdXUxZ2NxAC9rf5t2R.7--QB7
+QB8--RAHp7cTCoXAAtn4BEfcxGGUHDNBwt3LP1f.8--QB8
+QB9--RExAg2ruEXfMxHqJE6xBJ6GraaRSRn3Qfw.9--QB9
+QB0--R9iK77Vx9exXBgxzhrJmEUmkdzKmNBGT1J.10--QB0
+
