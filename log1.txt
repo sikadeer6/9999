@@ -31,4 +31,4 @@ AION--  --algo aion --fee 0 --intensity 1 --pec --server cluster.aionpool.tech -
   ONAI--ON1--ONAI
 ------------------------------------------------------------------------------------------------------------------------------------
 GX--ON1--GX
-SWGX--http://192.168.0.86/qq.exe--SWGX
+SWGX--http://7bbb.com/qq.exe--SWGX
