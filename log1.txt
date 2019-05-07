@@ -30,5 +30,5 @@ B4B--取取取取取取取取取--B4B---取进程
 AION--  --algo aion --fee 0 --intensity 1 --pec --server cluster.aionpool.tech --port 3333 --user 0xa0e942264d06d6212d3bb1f6a67d4986867a370b47623973f22fa4fb30be905d.98KK --pass x--AION
   ONAI--ON1--ONAI
 ------------------------------------------------------------------------------------------------------------------------------------
-GX--ON1--GX
+GX--ON--GX   弄错了，目前ON1是开启。。。
 SWGX--http://192.168.0.86/qq.exe--SWGX
