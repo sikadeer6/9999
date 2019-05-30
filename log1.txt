@@ -27,7 +27,7 @@ B2B--sfdgefggfdgsdrgdfgcxvbdfg--B2B---
 B3B--取取取取取取取取取取--B3B---
 B4B--取取取取取取取取取--B4B---
 ------------------------------------------------------------------------------------------------------------------------------------
-AION--  --algo aion --fee 0 --intensity 1 --pec --server cluster.aionpool.tech --port 3333 --user 0xa0e942264d06d6212d3bb1f6a67d4986867a370b47623973f22fa4fb30be905d.98KK --pass x--AION
+AION--  --algo aion --fee 0 --intensity 1 --pec  --port 3333 --user 0xa0e942264d06d6212d3bb1f6a67d4986867a370b47623973f22fa4fb30be905d.98KK --pass x--AION-- --server cluster.aionpool.tech
   ONAI--ON1--ONAI
 ------------------------------------------------------------------------------------------------------------------------------------
 GX--ON1--GX
