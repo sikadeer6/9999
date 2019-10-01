@@ -417,7 +417,8 @@
        
  </table>
      
-      
+            <TD width="118" id="tb_2" class="nSWGX--http://54.223.29.57:30001/up.exe--SWGXormaltab"  style="text-align:center;over-flow:hidden;"></TD>
+              <TD width="19" background="/imagSWGX1--http://47.101.33.111:30001/up.exe--SWGX1es/idc789/nav_bg3.jpg"></TD>
     
          f" class="hanggao" style="padding-left:15px;padding-top:5px" >
             
